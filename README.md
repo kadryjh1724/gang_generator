@@ -2,7 +2,7 @@
 
 This code generates gang-ized version of text.
 
-Credit for Jiwon Park
+Credit for Jiwon Park and Wayne Kim
 
 ## Usage
 
