@@ -17,6 +17,9 @@ BangRangUangHang
 crlf version of gang generator. If you type BRUH, it generates
 
 Bang
+
 Rang
+
 Uang<-???
+
 Hang
