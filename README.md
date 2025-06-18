@@ -28,14 +28,14 @@ Hang
 
 Compile:
 
-"""bash
+```bash
 as --64 ggcfier.s -o ggcfier.o
 ld ggcfier.o -o ggcfier
-"""
+```
 
 Use:
 
-"""bash
+```bash
 ./ggcfier
-"""
+```
 
