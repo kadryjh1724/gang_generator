@@ -39,3 +39,17 @@ Use:
 ./ggcfier
 ```
 
+### gang.f90
+
+Compile:
+
+```bash
+gfortran gang.f90 -o gang
+```
+
+Use:
+
+```bash
+./gang
+```
+
