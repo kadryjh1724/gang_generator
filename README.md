@@ -23,3 +23,19 @@ Rang
 Uang<-???
 
 Hang
+
+### ggcfier.s
+
+Compile:
+
+"""bash
+as --64 ggcfier.s -o ggcfier.o
+ld ggcfier.o -o ggcfier
+"""
+
+Use:
+
+"""bash
+./ggcfier
+"""
+
